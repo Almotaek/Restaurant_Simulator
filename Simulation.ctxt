@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Simulation
+comment0.text=\r\n\ The\ simulation\ blue\ print\ \r\n\r\n\ @author\ Khalid\ Almotaery\r\n\ @version\ 11/7/2020\r\n
+comment1.params=cashers\ dequeOrLinkedList
+comment1.target=Simulation(int,\ int)
+comment1.text=\r\n\ Initializes\ the\ data\ structures\ and\ converts\ the\ LinkedList\ from\ Information\ to\ an\ ArrayList\r\n
+comment2.params=
+comment2.target=void\ nextEvent()
+comment2.text=\r\n\ Adds\ all\ the\ arrival\ events\ to\ the\ priorty\ queue\r\n\r\n\ @param\ \ null\r\n\ @return\ null\r\n
+comment3.params=
+comment3.target=void\ runSimulation()
+comment3.text=\r\n\ Runs\ the\ whole\ simlation\r\n\r\n\ @param\ \ null\r\n\ @return\ null\r\n
+numComments=4

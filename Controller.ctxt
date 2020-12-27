@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Controller
+comment0.text=\r\n\ Testing\ class\r\n\r\n\ @author\ Khalid\ ALmotaery\r\n\ @version\ 11/9/2020\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Main\ method\ where\ testing\ starts\r\n\r\n\ @param\ \ String[]\ args\r\n\ @return\ null\r\n
+comment2.params=cashers\ dequeuOrLinkedList
+comment2.target=void\ runProgram(int,\ int)
+comment2.text=\r\n\ Runs\ the\ simulation\r\n\r\n\ @param\ \ int\ cashers,\ the\ number\ of\ cashiers,\ int\ dequeuOrLinkedList\ is\ either\ 1\ or\ 0\ to\ choose\ the\ data\ structure\r\n\ @return\ null\r\n
+comment3.params=
+comment3.target=long\ timeOfSimulationWithLinkedLists()
+comment3.text=\r\n\ Tests\ for\ time\ \r\n\r\n\ @param\ \r\n\ @return\ null\r\n
+comment4.params=
+comment4.target=long\ timeOfSimulationWithDeque()
+comment4.text=\r\n\ Tests\ for\ time\ \r\n\r\n\ @param\ \r\n\ @return\ null\r\n
+comment5.params=
+comment5.target=void\ netProfitAndCashers()
+comment5.text=\r\n\ \ Test\ for\ profits\r\n\r\n\ @param\ \r\n\ @return\ null\r\n
+comment6.params=
+comment6.target=void\ overflowWithDifferentCashers()
+comment6.text=\r\n\ \ Test\ for\ overflow\r\n\r\n\ @param\ \r\n\ @return\ null\r\n
+comment7.params=
+comment7.target=void\ maxWaitTimeWithDifferentCashers()
+comment7.text=\r\n\ \ Test\ for\ waiting\ time\r\n\r\n\ @param\ \r\n\ @return\ null\r\n
+numComments=8

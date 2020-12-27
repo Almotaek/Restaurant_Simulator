@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=InformationTest
+comment0.text=\r\n\ The\ test\ class\ EventTest.\r\n\r\n\ @author\ \ Khalid\ ALmotaery\r\n\ @version\ 11/7/2020\r\n
+comment1.params=
+comment1.target=void\ assignCustomersLinkedListTest()
+comment1.text=\r\n\ Tests\ the\ assingCustomers\ Methods\ by\ comapring\ the\ results\ from\ a\ LinkedList\ and\ an\ ArrayList\r\n
+comment2.params=
+comment2.target=void\ assignCustomersArrayDequeTest()
+comment2.text=\r\n\ Tests\ the\ assingCustomers\ Methods\ by\ comapring\ the\ results\ from\ a\ ArrayDeque\ and\ an\ ArrayList\r\n
+comment3.params=
+comment3.target=void\ getProfitRangeTest()
+comment3.text=\r\n\ Tests\ the\ range\ of\ the\ profit\r\n
+comment4.params=
+comment4.target=void\ getSeviceTimeRangeTest()
+comment4.text=\r\n\ Tests\ the\ range\ of\ the\ service\ time\r\n
+comment5.params=
+comment5.target=void\ getStaffingCostTest()
+numComments=6
