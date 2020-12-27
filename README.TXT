@@ -1,12 +1,5 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
+PROJECT TITLE: Restaurant Simulation
+HOW TO START THIS PROJECT:Run the program by making a new object of the simulation class. This will require you to input the number of cashiers and the type of data structure that you want to use. For the type of data structures, add 0 or 1.
+AUTHORS: Khalid Almotaery
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+Successful economic activities are one of the results of great economic modeling. In the age of “Big-data”, data-driven companies like Google and Netflix are shaping their models based on information from their massive databases. However, how can you make a great economic model without being a tech giant? An interesting yet cheap alternative to large databases is simulations. Simulations allow us to make models, expect results, test hypotheses, and understand systems without real-life data. This project will explore the power of simulations using the right data structures.  The aim is to build a restaurant simulation that allows us to optimize profit and minimize overflow and customer waiting time using data structures learned in CS150. Additionally, this work will compare LinkedList and ArrayDeque.
